@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: SSH
+tags: GameShell
 revisions:
 - author: Cuu 
   date: 2024-02-22

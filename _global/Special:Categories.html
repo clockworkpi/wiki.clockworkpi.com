@@ -4,16 +4,14 @@ title: Tags
 menu: ['global']
 ---
 <ul>
-{% if site.data.wiki_tags  %}
-{%- assign sorted_tags = site.data.wiki_tags | sort -%}
+{%- assign sorted_tags = site.tags | sort -%}
 {%- for tag in sorted_tags -%}
   {%- assign counter = 0 -%}
-  {%- for other_page in site.data.wiki_pages %}
+  {%- for other_page in site.wiki %}
     {%- if other_page.tags contains tag -%}
       {%- assign counter = counter | plus: 1 -%}
 	  {%- endif -%}
   {%- endfor -%}
   <li><a href="/{{ site.data.i18n[site.lang].prefix.tag }}{{ tag }}">{{ tag }}</a> ({{counter}} pages)</li>
 {%- endfor -%}
-{% endif %}
 </ul>
