@@ -15,7 +15,7 @@ prefix:
   tag: "Tag:"
   user: "User:"
 global_pages:
-  - url: ./Main
+  - url: ./
     text: Home page
   - url: ./Special:Categories
     text: All the tags
