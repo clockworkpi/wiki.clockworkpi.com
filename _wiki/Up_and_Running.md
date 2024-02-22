@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Up_and_Running
+title: Up and Running
 revisions:
 - author: Cuu 
   date: 2024-02-22
@@ -12,7 +12,7 @@ After you've [assembled](Assembly "wikilink") the GameShell you can turn
 the device on using the power button found on the back of the device
 
 <figure>
-<img src="Gameshell_ports_and_power.png"
+<img src="img/Gameshell_ports_and_power.png"
 title="Gameshell_ports_and_power.png" width="500" />
 <figcaption>Gameshell_ports_and_power.png</figcaption>
 </figure>
@@ -22,7 +22,7 @@ an initial boot sequence and you'll be greeted with the Launcher
 Homepage
 
 <figure>
-<img src="LauncherHome.png" title="LauncherHome.png" />
+<img src="img/LauncherHome.png" title="LauncherHome.png" />
 <figcaption>LauncherHome.png</figcaption>
 </figure>
 
