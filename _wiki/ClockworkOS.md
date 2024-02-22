@@ -60,7 +60,7 @@ wiki](https://github.com/clockworkpi/DevTerm/wiki/Devterm-CM3-ubuntu-server-imag
 ## DevTerm A06 OS Image
 
 <figure>
-<img src="DevTermA06OS.jpg" title="DevTermA06OS.jpg" />
+<img src="img/DevTermA06OS.jpg" title="DevTermA06OS.jpg" />
 <figcaption>DevTermA06OS.jpg</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ wiki](https://github.com/clockworkpi/DevTerm/wiki/Create-DevTerm-A06-OS-image-fr
 ## DevTerm A04 OS Image
 
 <figure>
-<img src="A04-image.png" title="A04-image.png" />
+<img src="img/A04-image.png" title="A04-image.png" />
 <figcaption>A04-image.png</figcaption>
 </figure>
 

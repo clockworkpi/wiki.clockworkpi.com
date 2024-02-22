@@ -29,7 +29,7 @@ Go to **Settings** and choose **Network gateway switch**
 Choose USB Ethernet
 
 <figure>
-<img src="Hhca2-vzt7d-300x225.png" title="Hhca2-vzt7d-300x225.png" />
+<img src="img/Hhca2-vzt7d-300x225.png" title="Hhca2-vzt7d-300x225.png" />
 <figcaption>Hhca2-vzt7d-300x225.png</figcaption>
 </figure>
 
