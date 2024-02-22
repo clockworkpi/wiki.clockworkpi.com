@@ -4,8 +4,7 @@ title: All pages
 menu: ['global']
 ---
 <ul>
-{% if site.data.wiki_pages  %}
-{%- assign sorted_page = site.data.wiki_pages | sort: "id" -%}
+{%- assign sorted_page = site.wiki | sort: "id" -%}
 {%- for page in sorted_page -%}
   {%- assign page_name = page.id | slice: 1, 50 -%}
   {%- if page_name != page.title -%}
@@ -16,5 +15,4 @@ menu: ['global']
     {%- if page.author_full -%}&nbsp;(by <a href="{{ page.author_full.url }}">{{ page.author_full.name }}</a>) {%- endif -%}
   </li>
 {%- endfor -%}
-{% endif %}
 </ul>
