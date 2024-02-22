@@ -1,8 +1,8 @@
-title: Wiki
+title: Clockworkpi Wiki
 description:  > # this means to ignore newlines
     Jekyll to build a static Wiki
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "htpps://wiki.clockworkpi.com"
+url: "https://wiki.clockworkpi.com"
 
 # Build settings
 markdown: kramdown
