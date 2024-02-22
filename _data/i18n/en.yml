@@ -1,5 +1,5 @@
 home: Main
-logo: /img/wiki.png
+logo: img/wiki.png
 label:
   author: Author
   links: Links
@@ -15,17 +15,17 @@ prefix:
   tag: "Tag:"
   user: "User:"
 global_pages:
-  - url: /Main
+  - url: ./Main
     text: Home page
-  - url: /Special:Categories
+  - url: ./Special:Categories
     text: All the tags
-  - url: /Special:AllPages
+  - url: ./Special:AllPages
     text: All the pages
-  - url: /Special:RecentChanges
+  - url: ./Special:RecentChanges
     text: Recent changes
-  - url: /Special:LongPages
+  - url: ./Special:LongPages
     text: Long pages
-  - url: /Special:ShortPages
+  - url: ./Special:ShortPages
     text: Short pages
-  - url: /Special:ListRedirects
+  - url: ./Special:ListRedirects
     text: Redirects
