@@ -10,7 +10,7 @@ label:
   redirect: "Redirect to"
   tag_pages: "Pages with tag"
   main_page: "Main page"
-  global_pages: "Special pages"
+  global_pages: ""
 prefix:
   tag: "Tag:"
   user: "User:"
@@ -27,7 +27,5 @@ global_pages:
     text: Long pages
   - url: /Special:ShortPages
     text: Short pages
-  - url: /Special:ListUsers
-    text: All the users
   - url: /Special:ListRedirects
     text: Redirects
