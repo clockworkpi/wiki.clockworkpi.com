@@ -13,7 +13,7 @@ menu: ['global']
       {%- assign counter = counter | plus: 1 -%}
 	  {%- endif -%}
   {%- endfor -%}
-{% endif %}
   <li><a href="/{{ site.data.i18n[site.lang].prefix.tag }}{{ tag }}">{{ tag }}</a> ({{counter}} pages)</li>
 {%- endfor -%}
+{% endif %}
 </ul>
