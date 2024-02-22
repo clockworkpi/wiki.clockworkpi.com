@@ -28,4 +28,4 @@ between the two in the Launcher's Settings.
 
 ## D.E.O.T.
 
-Dimension Engineering Operation Terminal ![](DEOT.jpg "DEOT.jpg")
+Dimension Engineering Operation Terminal ![](img/DEOT.jpg "DEOT.jpg")
