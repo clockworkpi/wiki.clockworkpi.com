@@ -3,6 +3,8 @@ layout: default
 title: Short pages
 menu: ['global']
 ---
+{% if site.data.wiki_pages  %}
+
 {%- assign long_pages = site.data.wiki_pages | sort: 'bytes' -%}
 <ol>
 {%- for page in long_pages limit:50 -%}
@@ -11,3 +13,5 @@ menu: ['global']
   </li>
 {%- endfor -%}
 </ol>
+
+{% endif %}
