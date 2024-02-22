@@ -1,6 +1,6 @@
-title: Jekyll for Wiki
+title: Wiki
 description:  > # this means to ignore newlines
-    Bootstrap project based on Jekyll to build a static Wiki
+    Jekyll to build a static Wiki
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "htpps://jek4wik.github.io"
 
