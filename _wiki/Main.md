@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Main_Page
+title: Main
 revisions:
 - author: Cuu 
   date: 2024-02-22
