@@ -3,13 +3,13 @@ layout: default
 title: Short pages
 menu: ['global']
 ---
-{% if site.data.wiki_pages  %}
+{% if site.wiki  %}
 
-{%- assign long_pages = site.data.wiki_pages | sort: 'bytes' -%}
+{%- assign long_pages = site.wiki | sort: 'bytes' -%}
 <ol>
 {%- for page in long_pages limit:50 -%}
   <li>
-    <a href="{{ page.url }}">{{ page.title }}</a>&nbsp; [{{ page.bytes }} bytes]
+    <a href="{{ page.url }}">{{ page.title }}</a>&nbsp;
   </li>
 {%- endfor -%}
 </ol>

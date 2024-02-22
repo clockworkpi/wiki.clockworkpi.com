@@ -11,7 +11,7 @@ menu: ['global']
     {%- assign page_name = page_name | append: " - " | append: page.title -%}
   {%- endif -%}
   <li>
-    <a href="{{ page.url }}">{{ page_name }}</a>&nbsp; [{{ page.bytes }} bytes]
+    <a href="{{ page.url }}">{{ page_name }}</a>&nbsp;
     {%- if page.author_full -%}&nbsp;(by <a href="{{ page.author_full.url }}">{{ page.author_full.name }}</a>) {%- endif -%}
   </li>
 {%- endfor -%}
