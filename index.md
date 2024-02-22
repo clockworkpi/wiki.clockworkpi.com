@@ -9,6 +9,20 @@ revisions:
 ---
 Welcome to the ClockworkPi community wiki!
 
+If you want to add wiki,just clone the repo ,run with jekyll in local, add markdown files in \_wiki folder with simple front matter like
+```
+---
+layout: simple
+title: SSH
+tags: GameShell
+created: 2024-02-22
+modified: 2024-02-22
+---
+
+```
+
+then send Pull Request 
+
 ## Gameshell
 
 ### What is GameShell?
