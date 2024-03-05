@@ -9,7 +9,8 @@ revisions:
 ---
 Welcome to the ClockworkPi community wiki!
 
-If you want to add wiki,just clone the repo ,run with jekyll in local, add markdown files in \_wiki folder with simple front matter like
+If you want to edit the wiki, just clone https://github.com/clockworkpi/wiki.clockworkpi.com.git, run it locally with jekyll, and add markdown files to the _wiki folder.
+The file format is simple, e.g.
 ```
 ---
 layout: simple
@@ -22,6 +23,8 @@ modified: 2024-02-22
 ```
 
 then send Pull Request 
+
+more info about how to run jekyll project on local ,visit https://jekyllrb.com/docs/
 
 ## Gameshell
 
