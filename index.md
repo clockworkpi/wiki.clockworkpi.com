@@ -9,7 +9,7 @@ revisions:
 ---
 Welcome to the ClockworkPi community wiki!
 
-If you want to edit the wiki, just clone https://github.com/clockworkpi/wiki.clockworkpi.com.git, run it locally with jekyll, and add markdown files to the _wiki folder.
+If you want to edit the wiki, just clone [https://github.com/clockworkpi/wiki.clockworkpi.com.git](https://github.com/clockworkpi/wiki.clockworkpi.com.git), run it locally with jekyll, and add markdown files to the _wiki folder.
 The file format is simple, e.g.
 ```
 ---
